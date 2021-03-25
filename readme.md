@@ -83,3 +83,8 @@ $ bin/kafka-console-consumer.sh --topic requests-denied --bootstrap-server local
   "data" : "This customer doesn't have a good payment reputation."
 }
 ```
+
+The process instance should be completed: 
+
+![manual-approval-process-instance-diagram](https://user-images.githubusercontent.com/253186/112413039-4872d880-8cfe-11eb-9999-90c853057aac.png)
+
